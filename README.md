@@ -14,5 +14,6 @@ You can find the code for this project [here](https://github.com/TVR28/Bitcoin-P
 ## Data
 
 Computing the Wikipedia edit data takes time.  It can be faster to use the version that's already been generated.  It's in this repository, and called `wikipedia_edits.csv`.
+
 We'll be downloading the Bitcoin price data using the `yfinance` package as part of the project.
 
