@@ -1,4 +1,4 @@
-# Bitcoin-Price-Prediction-
+# Bitcoin-Price-Prediction
 ## Predicting Bitcoin Price Using Historical Data And Wikipedia Edits Data 
 
 In this project, we'll predict the future price of Bitcoin.  We'll use historical data of the price of Bitcoin, along with data from Wikipedia about edits to the Bitcoin page.  We'll merge and combine this data, then use it to train a `Random Forest` model which tells us if Bitcoin prices will increase or decrease tomorrow.  We'll then switch to an `XGBoost` model and better predictors to improve accuracy.
